@@ -19,7 +19,6 @@
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="128dp"
-            android:text="TextView"
             android:textAlignment="viewEnd"
             android:textAllCaps="false"
             android:textSize="36dp" />
